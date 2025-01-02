@@ -1,9 +1,10 @@
 <h1 align="center">Scriptorium Academia</h1>
 <h5 align="center">Elevate your academic journey with expert guidance and innovative resources. We offer services like ML/DL projects, IoT solutions, web/mobile apps, and crafting standout theses and research papers. Future success starts here—join us!</h5>
 
-🌐 Visit Us at: [https://scriptoriumacademia.netlify.app](https://scriptoriumacademia.netlify.app)
+<h3 align="center">Why choose Scriptorium Academia?</h3>
 
-📫 Email Us: **scriptorium.academia@gmail.com**
+<p align="justify">At Scriptorium Academia, we are dedicated to providing students with the expertise and resources they need to succeed in their academic journey. Our team of professionals, with a strong background in Computer Science and Engineering, specializes in cutting-edge Machine Learning and Deep Learning projects, Internet of Thing projects, web and mobile app development, as well as exceptional guidance in thesis writing, and research papers. We believe in empowering students with the tools and support necessary to excel in both their studies and future careers. Whether you're looking to tackle a challenging project, craft a standout paper, or seek advice for your thesis and research, we are here to help you achieve academic success and shape your bright future.
+</p>
 
 <h3 align="center">Connect with us</h3>
 <p align="center">
@@ -12,4 +13,6 @@
 <a href="https://fb.com/scriptorium.academia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="scriptorium.academia" height="30" width="40" /></a>
 <a href="https://instagram.com/scriptorium.academia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scriptorium.academia" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@scriptoriumacademia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scriptoriumacademia" height="30" width="40" /></a>
+🌐 Visit Us at: [https://scriptoriumacademia.netlify.app](https://scriptoriumacademia.netlify.app)
+📫 Email Us: **scriptorium.academia@gmail.com**
 </p>
