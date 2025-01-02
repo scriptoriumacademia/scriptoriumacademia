@@ -1,5 +1,5 @@
 <h1 align="center">Scriptorium Academia</h1>
-<h5 align="center">Elevate your academic journey with expert guidance and innovative resources. We offer services like ML/DL projects, IoT solutions, web/mobile apps, and crafting standout theses and research papers. Future success starts here—join us!</h5>
+<p align="center">Elevate your academic journey with expert guidance and innovative resources. We offer services like ML/DL projects, IoT solutions, web/mobile apps, and crafting standout theses and research papers. Future success starts here—join us!</p>
 
 <h3 align="center">Why choose Scriptorium Academia?</h3>
 
@@ -13,6 +13,6 @@
 <a href="https://fb.com/scriptorium.academia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="scriptorium.academia" height="30" width="40" /></a>
 <a href="https://instagram.com/scriptorium.academia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scriptorium.academia" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@scriptoriumacademia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scriptoriumacademia" height="30" width="40" /></a>
-🌐 Visit Us at: [https://scriptoriumacademia.netlify.app](https://scriptoriumacademia.netlify.app)
-📫 Email Us: **scriptorium.academia@gmail.com**
 </p>
+🌐[https://scriptoriumacademia.netlify.app](https://scriptoriumacademia.netlify.app)
+📫**scriptorium.academia@gmail.com**
