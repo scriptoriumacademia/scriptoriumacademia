@@ -14,4 +14,4 @@
 <a href="https://instagram.com/scriptorium.academia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="scriptorium.academia" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@scriptoriumacademia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@scriptoriumacademia" height="30" width="40" /></a>
 </p>
-<p align="center">🌐 <a href="https://scriptoriumacademia.netlify.app" target="blank">https://scriptoriumacademia.netlify.app</a>📫 <a href="mailto:scriptorium.academia@gmail.com">scriptorium.academia@gmail.com</a></p>
+<p align="center">🌐 <a href="https://scriptoriumacademia.netlify.app" target="blank">https://scriptoriumacademia.netlify.app</a> 📫 <a href="mailto:scriptorium.academia@gmail.com">scriptorium.academia@gmail.com</a></p>
