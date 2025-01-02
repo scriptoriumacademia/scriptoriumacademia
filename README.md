@@ -1,5 +1,5 @@
 <h1 align="center">Scriptorium Academia</h1>
-<h3 align="center">Elevate your academic journey with expert guidance and innovative resources. We offer services like ML/DL projects, IoT solutions, web/mobile apps, and crafting standout theses and research papers. Future success starts here—join us!</h3>
+<h5 align="center">Elevate your academic journey with expert guidance and innovative resources. We offer services like ML/DL projects, IoT solutions, web/mobile apps, and crafting standout theses and research papers. Future success starts here—join us!</h5>
 
 🌐 Visit Us at: [https://scriptoriumacademia.netlify.app](https://scriptoriumacademia.netlify.app)
 📫 Email Us: **scriptorium.academia@gmail.com**
