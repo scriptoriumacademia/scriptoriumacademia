@@ -2,9 +2,10 @@
 <h5 align="center">Elevate your academic journey with expert guidance and innovative resources. We offer services like ML/DL projects, IoT solutions, web/mobile apps, and crafting standout theses and research papers. Future success starts here—join us!</h5>
 
 🌐 Visit Us at: [https://scriptoriumacademia.netlify.app](https://scriptoriumacademia.netlify.app)
+
 📫 Email Us: **scriptorium.academia@gmail.com**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with us</h3>
 <p align="center">
 <a href="https://twitter.com/scriptodemia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scriptodemia" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/scriptoriumacademia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="scriptoriumacademia" height="30" width="40" /></a>
