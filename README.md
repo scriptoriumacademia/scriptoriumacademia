@@ -1,5 +1,5 @@
 <h1 align="center">Scriptorium Academia</h1>
-<p align="center">Elevate your academic journey with expert guidance and innovative resources. We offer services like ML/DL projects, IoT solutions, web/mobile apps, and crafting standout theses and research papers. Future success starts here—join us!</p>
+<p align="center">Elevate your academic journey with expert guidance and innovative solutions. We offer thesis development, programming projects, ML/DL systems, IoT, web/mobile apps, and report assistance. Start now!</p>
 
 <h2 align="center">Why Choose Scriptorium Academia?</h2>
 
