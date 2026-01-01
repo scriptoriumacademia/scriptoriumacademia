@@ -1,5 +1,12 @@
 <h1 align="center">Scriptorium Academia</h1>
-<p align="center">Targeted mentorship for tech students | No lengthy courses | FREE consultation → Guided sessions → 24/7 support | Thesis | Programming | Assignment help</p>
+<p align="center">Targeted mentorship for Computer Science students | No lengthy courses | Learn Exactly what you need
+<br> <br>
+Thesis | Programming | Assignment
+<br> <br>
+Book Free Consultation
+☎️ +8801632093102
+📧 scriptorium.academia@gmail.com
+🌐 https://scriptoriumacademia.netlify.app</p>
 
 <h2 align="center">Why Choose Scriptorium Academia?</h2>
 
