@@ -1,5 +1,5 @@
 <h1 align="center">Scriptorium Academia</h1>
-<p align="center">Targeted mentorship for Computer Science students | No lengthy courses | Learn Exactly what you need
+<p align="center">Targeted mentorship for Computer Science students | No lengthy courses | Learn exactly what you need
 <br> <br>
 Thesis | Programming | Assignment
 <br> <br>
