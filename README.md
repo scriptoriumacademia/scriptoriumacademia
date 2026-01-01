@@ -1,9 +1,22 @@
 <h1 align="center">Scriptorium Academia</h1>
-<p align="center">Elevate your academic journey with expert guidance and innovative solutions. We offer thesis development, programming projects, ML/DL systems, IoT, web/mobile apps, and report assistance. Start now!</p>
+<p align="center">Targeted mentorship for tech students | No lengthy courses | FREE consultation → Guided sessions → 24/7 support | Thesis | Programming | Assignment help</p>
 
 <h2 align="center">Why Choose Scriptorium Academia?</h2>
 
-<p align="justify">At Scriptorium Academia, we are committed to helping students navigate the complexities of academic life. Our team, with a strong foundation in Computer Science and Engineering, specializes in providing guidance and support across a wide range of academic needs. We assist with building practical thesis projects in areas like Machine Learning, Deep Learning, IoT, and web and mobile applications. Additionally, we help students complete programming projects, including system development in languages like C, C++, Java, Dart, and Python. Whether it's crafting well-structured reports, completing assignments, or developing real-world projects, we are here to simplify the process and empower students to succeed. Our goal is to provide the tools, resources, and guidance students need to excel in their studies, develop technical skills, and prepare for future career success.
+<p align="justify">Because we're the antidote to endless tutorials and
+                            generic courses. we provide <strong>targeted,
+                                project-specific mentorship</strong> that
+                            eliminates wasted time. Our proven three-phase model
+                            begins with a FREE consultation to pinpoint your
+                            exact needs, followed by one-on-one guided sessions
+                            where we build your project's core together, and
+                            concludes with you completing the work using our
+                            24/7 support. This efficient approach ensures you
+                            learn <strong>exactly what's required</strong> for
+                            your thesis, programming project, or research paper,
+                            transforming confusion into completion without the
+                            unnecessary hustle of lengthy, irrelevant
+                            content.
 </p>
 
 <h2 align="center">Connect Us</h2>
