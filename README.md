@@ -3,9 +3,9 @@
 <br> <br>
 Thesis | Programming | Assignment
 <br> <br>
-Book Free Consultation
-☎️ +8801632093102
-📧 scriptorium.academia@gmail.com
+Book Free Consultation<br>
+☎️ +8801632093102<br>
+📧 scriptorium.academia@gmail.com<br>
 🌐 https://scriptoriumacademia.netlify.app</p>
 
 <h2 align="center">Why Choose Scriptorium Academia?</h2>
